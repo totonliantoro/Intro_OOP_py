@@ -1,5 +1,5 @@
 """
-Python Assessment 3
+Python Intro OOP 
 Created by: Toton Liantoro
 created on: 22 May 2022
 last edited: 24 May 2022
