@@ -1,0 +1,10 @@
+Mastering Windows Server 2019 - Second Edition;Krause,Jordan;978-1789804539;005.4476/KRA;5;3;2;
+Windows Server 2019 & PowerShell All In One For Dummies;Perrot,Sara;978-1119560715;005.4476/PER;10;2;8;
+Windows Server Automation with PowerShell Cookbook - Fouth Edition;Lee,Thomas;978-1800568457;005.4476/LEE;3;1;2;
+Python Cookbook: Recipes for Mastering Python 3;Beazley,David;978-1449340377;005.133/BEA;10;8;2;
+Automate the Boring Stuff With Python;Sweigart,Al;978-1593275990;005.133/SWE;10;10;0;
+Head First Python - 2nd Edition;Barry,Paul;978-1491919538;005.133/BAR;4;2;2;
+Python Crash Course - 2nd Edition;Matthes,Eric;978-1593279288;005.133/MAT;12;8;4;
+Python for Dummies;Maruch,Stef;978-0471778646;005.133/MAR;5;0;5;
+Beginning Programming with Python for Dummies;Mueller,John Paul;978-1119457893;005.133/MUE;7;5;2;
+Beginning COBOL for Programmers;Coughlan,Michael;978-1430262534;005.133/COU;1;0;1;
